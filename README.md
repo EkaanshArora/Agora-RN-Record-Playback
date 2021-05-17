@@ -6,12 +6,16 @@ The source code of Agora React Native SDK can be found [here](https://github.com
 
 This app uses [this backend](https://github.com/EkaanshArora/Agora-Cloud-Recording-Example/) for cloud recording, tokens and listing files from S3.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FEkaanshArora%2FAgora-Cloud-Recording-Example%2Ftree%2Fmaster)
+
+
 ## Prerequisites
 
 * React Native >= 0.59.10
 * iOS SDK 10.0+
 * Android 5.0+
 * A valid Agora account [Sign up](https://dashboard.agora.io/en/) for free.
+* Backend
 
 Open the specified ports in [Firewall Requirements](https://docs.agora.io/en/Agora%20Platform/firewall?platform=All%20Platforms) if your network has a firewall.
 
